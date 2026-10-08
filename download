@@ -1,0 +1,9 @@
+data/*
+!data/README.md
+outputs/*
+!outputs/.gitkeep
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.venv/
